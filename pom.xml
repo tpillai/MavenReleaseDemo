@@ -17,8 +17,8 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git@github.com:tpillai/ReleaseDemo.git</connection>
-        <developerConnection>scm:git:git@github.com:tpillai/ReleaseDemo.git</developerConnection>
+        <connection>scm:git:git@github.com:tpillai/MavenReleaseDemo.git</connection>
+        <developerConnection>scm:git:git@github.com:tpillai/MavenReleaseDemo.git</developerConnection>
         <url>https://github.com/tpillai/ReleaseDemo</url>
         <tag>@{project.version}</tag>
     </scm>
