@@ -4,7 +4,7 @@
 
     <groupId>org.demo</groupId>
     <artifactId>ReleaseDemo</artifactId>
-    <version>0.1</version>
+    <version>0.2-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -20,7 +20,7 @@
         <connection>scm:git:git@github.com:tpillai/MavenReleaseDemo.git</connection>
         <developerConnection>scm:git:git@github.com:tpillai/MavenReleaseDemo.git</developerConnection>
         <url>https://github.com/tpillai/ReleaseDemo</url>
-        <tag>0.1</tag>
+        <tag>@{project.version}</tag>
     </scm>
 
     <build>
